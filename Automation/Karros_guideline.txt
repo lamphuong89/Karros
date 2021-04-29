@@ -1,0 +1,6 @@
+ 	
+1. Work on JavaScript and WebDriverIO
+2. Install mocha.
+3. Install Chai.
+4. Install axios.
+5. Go to path: LamThiPhuong_Tester/src/wdio and run command: npx wdio wdio.conf.js

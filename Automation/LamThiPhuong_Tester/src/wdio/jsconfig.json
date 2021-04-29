@@ -1,0 +1,9 @@
+{
+    "include": [
+        "**/*.js",
+        "**/*.json",
+        "node_module/@wdio/sync",
+        "node_module/@wdio/mocha-framework"
+    ]
+}
+//shift+option+f : format code
